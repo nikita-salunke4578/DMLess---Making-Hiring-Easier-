@@ -1,0 +1,1 @@
+ALTER TABLE public.profiles ADD COLUMN notification_email text DEFAULT NULL;

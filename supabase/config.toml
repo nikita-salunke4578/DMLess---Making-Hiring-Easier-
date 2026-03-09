@@ -1,0 +1,16 @@
+project_id = "nwxtpqnrdbckdzlgnojt"
+
+[functions.send-candidate-email]
+verify_jwt = false
+
+[functions.proctor-analyze]
+verify_jwt = false
+
+[functions.generate-mcqs]
+verify_jwt = false
+
+[functions.ai-recruiter]
+verify_jwt = false
+
+[functions.submit-candidate]
+verify_jwt = false
